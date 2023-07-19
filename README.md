@@ -1,6 +1,6 @@
 # CppLearningMaterial
 
-***Free C++ Learning Platform***
+***Free C++ Learning Platform***  
 [CppExpert](https://www.cppexpert.online/)
 
 ***Blogs***  
@@ -11,5 +11,5 @@
 [cppbestpractices](https://github.com/lefticus/cppbestpractices)  
 [Awesome C++](https://github.com/fffaraz/awesome-cpp)  
 
-***References***
+***References***  
 [C++ Specifications](https://timsong-cpp.github.io/cppwp/)
