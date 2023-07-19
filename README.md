@@ -3,7 +3,7 @@
 ***Free C++ Learning Platform***
 [CppExpert](https://www.cppexpert.online/)
 
-***Blogs***
+***Blogs***  
 [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)  
 [FluentC++](https://www.fluentcpp.com/)  
 [C++ Tips of the Week from Abseil](https://abseil.io/tips/)  
